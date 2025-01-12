@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in full-stack development, machine learning, and creating impactful solutions. Here, you'll find some of the projects I've been working on, including my latest and most exciting projects: **PersonalFinanceManager**, **Employee Turnover Prediction**, and **Predictive Maintenance System**.
 
 ## About Me
-🌐 Website: https://www.corajonesaiengineerdatascienceconsultant.com/
+🌐 Website: https://scalableintelligence.net
 
 ## Skills
 - **Frontend**: React.js, Redux, Material-UI, HTML5, CSS3, JavaScript (ES6+) 🎨🖥️
